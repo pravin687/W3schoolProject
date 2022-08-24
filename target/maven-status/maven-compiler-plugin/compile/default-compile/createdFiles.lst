@@ -1,0 +1,5 @@
+com/w3school/qa/testbase/TestBase.class
+com/w3school/qa/pageobject/HomPage.class
+com/w3school/qa/pageobject/LoginPage.class
+com/w3school/qa/reusablemethods/Resuabale.class
+com/w3school/qa/utility/FetchData.class

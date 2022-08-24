@@ -1,0 +1,4 @@
+com/w3school/qa/cucumberOptions/TestRunner.class
+com/w3school/qa/stepDefinations/Hook.class
+com/w3school/qa/stepDefinations/LoginStepDefination.class
+com/w3school/qa/stepDefinations/HomeStepDefination.class
